@@ -3,7 +3,7 @@ def my_collect(array)
  
  collection = []
  
- while do |lang|
+ while |lang|
    lang.upcase
  end
 end

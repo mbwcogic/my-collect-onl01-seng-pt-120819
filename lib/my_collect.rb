@@ -3,6 +3,6 @@ def my_collect(array)
  
  collection = []
  
- 
+ while do
 
 end
